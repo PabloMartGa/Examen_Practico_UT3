@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Examen_Practico_UT3</string>
+
+    <string name="titulo">El Despertar de Isengard</string>
+    <string name="hint_id">Identificador del Uruk-hai</string>
+    <string name="label_tipo">Tipo de unidad</string>
+    <string name="label_equipo">Equipamiento</string>
+    <string name="armadura">Armadura de Hierro</string>
+    <string name="escudo">Escudo de Isengard</string>
+    <string name="antorcha">Llevar Antorcha de Polvorín</string>
+    <string name="cd_enviar">Enviar tropa</string>
+
+    <string name="error_anonimo">El ejército no acepta soldados anónimos</string>
+    <string name="msg_enviada">¡Unidad %1$s enviada al Abismo de Helm!</string>
+
+    <string-array name="tipos_unidad">
+        <item>Guerrero</item>
+        <item>Arquero</item>
+        <item>Explorador</item>
+        <item>Berserker</item>
+    </string-array>
 </resources>
